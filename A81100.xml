@@ -1,0 +1,395 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cruel tragedy or inhumane butchery, of Hamor and Shechem, with other their adherents. Acted by Simeon and Levi, in Shechem, a city in Succoth a county or Lordship in Canaan. Lately revived and reacted heere in England, by Fairfax and Ireton, upon the persons of Sir Charles Lucas and Sir George Lisle, in Colchester, the 28. Aug. 1648. Presented to publicke view in meditations, discoursing the former, discovering the latter, and comparing the circumstances of both, and dedicated to the honoured memory of the two last named worthies.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81100</idno>
+            <idno type="STC">Wing C7422</idno>
+            <idno type="STC">Thomason E462_30</idno>
+            <idno type="STC">ESTC R205082</idno>
+            <idno type="EEBO-CITATION">99864523</idno>
+            <idno type="PROQUEST">99864523</idno>
+            <idno type="VID">116753</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81100)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116753)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E462[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cruel tragedy or inhumane butchery, of Hamor and Shechem, with other their adherents. Acted by Simeon and Levi, in Shechem, a city in Succoth a county or Lordship in Canaan. Lately revived and reacted heere in England, by Fairfax and Ireton, upon the persons of Sir Charles Lucas and Sir George Lisle, in Colchester, the 28. Aug. 1648. Presented to publicke view in meditations, discoursing the former, discovering the latter, and comparing the circumstances of both, and dedicated to the honoured memory of the two last named worthies.</title>
+               </titleStmt>
+               <extent>[4], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Sept. ye 11".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Early works to 1800.</term>
+               <term>Lucas, Charles, --  Sir, 1613-1648 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116753:1" rendition="simple:additions"/>
+            <p>THE CRVELL TRAGEDY Or Inhumane BVTCHERY, of <hi>Hamor</hi> and <hi>Shechem,</hi> with other their <hi>Adherents.</hi> Acted by <hi>Simeon</hi> and <hi>Levi,</hi> in <hi>Shechem,</hi> a <hi>City</hi> in <hi>Succoth</hi> a <hi>County</hi> or <hi>Lordſhip</hi> in <hi>Canaan.</hi> Lately revived and reacted heere in England, by <hi>Fairfax</hi> and <hi>Ireton,</hi> upon the perſons of Sir <hi>Charles Lucas</hi> and Sir <hi>George Liſle,</hi> in <hi>Colcheſter,</hi> the 28. <hi>Aug.</hi> 1648. Preſented to publicke view in <hi>Meditations,</hi> diſcourſing the former, diſcovering the latter, and comparing the cir<g ref="char:EOLhyphen"/>cumſtances of both, and <hi>Dedicated</hi> to the <hi>honoured me<g ref="char:EOLhyphen"/>mory</hi> of the <hi>two laſt named Worthies.</hi>
+            </p>
+            <q>By ſwearing, and lying, and killing, and ſtealing, and committing a<g ref="char:EOLhyphen"/>dultery, they breake out, and blood toucheth blood.
+<bibl>
+                  <hi>Hoſea 4.2.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Yeare 1648.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:116753:2"/>
+            <head>The Preface.</head>
+            <opener>
+               <salute>Gentlemen:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hough I am denyed the liberty of the Pulpit, yet I cannot be de<g ref="char:EOLhyphen"/>nyed the freedome of the Preſſe to publiſh theſe ſad meditati<g ref="char:EOLhyphen"/>ons upon the tragicall end <hi>of 2 of Englands VVorthyes:</hi> an Office (I muſt confeſſe) that deſerved to be perfor<g ref="char:EOLhyphen"/>med by an abler pen, but could not (I am ſure have) beene dictated from a more honeſt heart; an heart more affected with the worthineſſe of their lives, or more afflicted for the barbarous ſuddaineſſe of their cruel deaths: I forbear to remember what they were, tis recorded in each noble valiant breaſt; nor would I have you doubt of what they are, crown'd Conquerors in Heaven, though murdred captives here on earth. Funerall Sermons ought to be, not ſo much for the <hi>Encomium</hi> of the dead, as the
+<pb facs="tcp:116753:3"/>benefit of the living, either by inſtruction or con<g ref="char:EOLhyphen"/>viction; which latter this piece eſpecially labours to effect: which I beſeech God it may compaſſe with that ſucces, that they, who had an hand themſelves, or abetted and countenanced others in this ſo bloo<g ref="char:EOLhyphen"/>dy a deed, being convinc't of their cruelty, may bee ſtruck with remorſe and horror at the remembrance of ſo curſed a ſin, which all good men cannot but abhorre, and ſo doe I.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:116753:3"/>
+            <epigraph>
+               <bibl>GEN. 45.5.6.7.</bibl>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">C</seg>Ruelty (though exerciſed upon an Hea<g ref="char:EOLhyphen"/>then) is alwayes odious, and butchery <hi>upon cold blood</hi> (though committed u<g ref="char:EOLhyphen"/>pon raviſhing, treacherous, hypocriti<g ref="char:EOLhyphen"/>call Infidels) makes even <hi>Iſrael</hi> to ſtinke (or be abhorred) among the In<g ref="char:EOLhyphen"/>habitants of <hi>Canaan,</hi> and the <hi>Periz<g ref="char:EOLhyphen"/>zites.</hi> Gen. 34.30.</p>
+            <p>To have the <hi>ſwords</hi> of the <hi>choſen ſeede,</hi> ſonnes of thoſe <hi>Fathers</hi> whom <hi>God loved,</hi> Deut. 4.37. of children elected by the <hi>Lord their God, to be a precious Peo<g ref="char:EOLhyphen"/>ple unto himſelfe, above all people that are upon the earth.</hi> Deut. 7.6. of a <hi>People,</hi> not more in number then any peo<g ref="char:EOLhyphen"/>ple, but the feweſt of <hi>all people;</hi> Deut. 7.7. of them whom he called of his <hi>free grace,</hi> and meere <hi>love</hi> which he bare to them. Deut. 7.8. That the <hi>ſwords</hi> (I ſay) of this <hi>choſen ſeed,</hi> of the ſonnes of <hi>ſuch Fathers</hi> of the children <hi>ſo elected,</hi> of a people ſo few in number, and by <hi>free grace,</hi> and meer <hi>love,</hi> ſo called: That their <hi>ſwords</hi> (I ſay once againe) ſhould become the Inſtruments of violence; and that cruelty, murdering cru<g ref="char:EOLhyphen"/>elty ſhould be deliberately conſulted, and premeditately acted in <hi>their habitations,</hi> was ſo horrid an inhumanity in the eyes and thoughts of the good old experienced <hi>Patriarch, Jacob,</hi> and ſo deteſtable a fact in his apprehenſion, that the remembrance therefore made ſuch a deep impreſſion in <hi>his</hi> ſoule as to the day of his death could not be defaced; but on <hi>that day</hi> (as if but then their ſwords had freſhly been latcht into the <hi>Shechemites</hi> hearts, and the Relation of that bloody act, <hi>even then</hi> pierc't his ſoule) his laſt gaſp almoſt, breaths it ſelfe into this fatall, fearfull prediction</p>
+            <div type="part">
+               <pb n="2" facs="tcp:116753:4"/>
+               <head>The Text.</head>
+               <p n="5">
+                  <hi>5.</hi> Simeon and Levy, brethren in iniquity; the inſtruments of cruelty are in their habitations, (or their ſwords were inſtruments of violence)</p>
+               <p n="6">
+                  <hi>6.</hi> Oh my ſoul! come not thou into their ſecret: unto their aſ<g ref="char:EOLhyphen"/>ſembly mine honour be not thou united; for in their anger they ſlew a man, and in their ſelfe will they digged down a wall.</p>
+               <p n="7">
+                  <hi>7.</hi> Curſed be their wrath, for it was fierce; and their rage, for it was cruell: <hi>I</hi> will divide them in <hi>Jacob,</hi> and ſcatter them in <hi>Iſraell.</hi>
+               </p>
+               <p>
+                  <hi>And divides it ſelfe by reſpiting commaes, or breath-recove<g ref="char:EOLhyphen"/>ring accents, into theſe 7 particulars.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Diviſion.</head>
+               <p n="1">1. A diſtinguiſhing appellation, <hi>Simeon and Levi.</hi>
+               </p>
+               <p n="2">2. A ſtigmatizing compellation, <hi>Brethren in iniquity.</hi>
+               </p>
+               <p n="3">3. An affirmative Poſition, charge, or impeachment, <hi>the In<g ref="char:EOLhyphen"/>ſtuments of cruelty are in their habitations.</hi>
+               </p>
+               <p n="4">4. an ingeminated conjuration
+<list>
+                     <item>Of his ſoule to abjure their ſe<g ref="char:EOLhyphen"/>crets, <hi>Oh my ſoule come not thou into their ſecrets.</hi>
+                     </item>
+                     <item>Of his honour to abjure their Aſſemblies.</item>
+                     <item>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>nto their Aſſembly, Oh mine honour be not thou united.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="5">5. That conjuration grounded upon a cauſe arguing the deſer<g ref="char:EOLhyphen"/>ved deteſtation of two actions, the effect of a two fold affection.</p>
+               <list>
+                  <item>1. Of their anger vented in the execution done upon their enemies: <hi>for in their anger they ſlew a man.</hi>
+                  </item>
+                  <item>2. Of their peeviſh perverſneſſe, their battering downe a Wall, or forcing an entring into a City; <hi>and in their ſelfe-will they digged downe a wall.</hi>
+                  </item>
+               </list>
+               <p n="6">6. A bitter imprecation, or dreadfull execration,</p>
+               <pb n="3" facs="tcp:116753:4"/>
+               <p>
+                  <hi>Curſed be their</hi>
+                  <list>
+                     <item>
+                        <hi>wrath; for it was fierce.</hi>
+                     </item>
+                     <item>
+                        <hi>rage; for it was cruell.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="7">7. A Prophetick divination, or fatall prediction of —
+<list>
+                     <item>diviſion among themſelves: <hi>I will divide them in</hi> Jacob.</item>
+                     <item>diſperſion among others: <hi>and ſcatter them in Iſrael.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>In all which he expreſſeth how cordially, and conſcientiouſ<g ref="char:EOLhyphen"/>ly, he abominated ſo horrid a Tragedy as will be diſcovered in handling theſe particulars, unto the expoſition whereof I next proceed.</p>
+            </div>
+            <div type="part">
+               <head>The expoſition of the firſt particular.</head>
+               <p>The diſtinguiſhing appellation, <hi>Simeon</hi> and <hi>Levi.</hi> And why they named above all the reſt, it being evident that the other ſonnes of <hi>Jacob</hi> were actors in the deſigne as well as they, and that in revenge too, Gen. 37.27? It is true, they were actors in the work of revenge, but not the manner of acting: the comming of ſore ſelfe ſubmitted and wounded men three dayes after a Treaty, and a ſeeming reconciliation, when they thought them<g ref="char:EOLhyphen"/>ſelves ſafe, and feared no ſuch revengefull act, the comming (I ſay) upon men at ſuch a time, and in ſuch a condition and putting them to death in cold bloud, was the ſole deſigne of thoſe two by name, and was (as the 25. verſe plainly expreſſeth it) acted by them alone; and therefore in this definitive ſen<g ref="char:EOLhyphen"/>tence which <hi>Jacob</hi> paſſed upon that bloudy fact, and the judge<g ref="char:EOLhyphen"/>ment which hee pre-threatned ſhould fall upon the actors, by their proper names he diſtinguiſheth them two from the reſt, and points at them, that ſo it might be unqueſtionably evident that they were the men.</p>
+               <div type="subpart">
+                  <head>The Obſervations.</head>
+                  <p n="1">1. Obſerve hence in the firſt place that in criminall cauſes of ſo bloody and cruell a nature, a definitive ſentence (whether of death, or of judgement) is not to be pronounced (much leſſe haſtily executed) upon ſurmiſes or ſuggeſtions; but only upon reall evidence, for undiſputable reaſons, and upon ſufficient grounds.</p>
+                  <pb n="4" facs="tcp:116753:5"/>
+                  <p n="2">2. In the records of ſuch inhumane Tragedies and cruell executions, the contrivers and actors may <hi>digito demonſtrari &amp; dici hi ſunt,</hi> be poynted out by name to diſtinguiſh them from others, and ſaid of theſe are the men; <hi>Jacob</hi> doth ſo heere, <hi>Simeon</hi> and <hi>Levi.</hi>
+                  </p>
+               </div>
+               <div type="subpart">
+                  <head>The Application.</head>
+                  <p>The contrivees and principall actors (in the execution of Sir <hi>Charles Lucas</hi> and Sir <hi>George Lyle,</hi> upon a bare ſurmiſe of having no Commiſſion, and at beſt but upon a diſputable rea<g ref="char:EOLhyphen"/>ſon) having neglected the duty required in the former obſerva<g ref="char:EOLhyphen"/>tion, have purchaſed to themſelves the guilt of <hi>Simeon</hi> and <hi>Le<g ref="char:EOLhyphen"/>vi,</hi> the cruel murther of two worthy men, though ſubmitted to mercy, and therefore in our making mention of that inhu<g ref="char:EOLhyphen"/>mane Tragedy may be diſtinguiſhed from others by their pro<g ref="char:EOLhyphen"/>per appellation, and by name pointed at <hi>Fairfax,</hi> and <hi>Ireton,</hi> as <hi>Simeon,</hi> and <hi>Levi, brethren in iniquity,</hi> which is the ſecond particular.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The expoſition of the ſecond particular</head>
+               <p n="2">2. The ſtigmatizing compellation, <hi>brethren in iniquity;</hi> bre<g ref="char:EOLhyphen"/>thren, not ſo much in reſpect of their affinity or neereneſſe of blood, as of the vicinity and complyance of their affections in plotting the treachery, and likewiſe of the conjuncture of, or e<g ref="char:EOLhyphen"/>quall readineſſe in their deſires to effect ſo inhumane a villany; <hi>fratres in iniquitate,</hi> that is ſaith one, <hi>ſimilimi &amp; conjunctiſſimi ſcelere, putà feritate, audacia, dolo &amp; crudelitate,</hi> they were link't in the ſame bands of iniquity, alike poſſeſſed with a re<g ref="char:EOLhyphen"/>vengefull, fierce, crafty, and cruel deſire of blood, brethren in iniquity (that is) with the ſame degree of affection, complot<g ref="char:EOLhyphen"/>ters, and contrivers of this violent bloody deſigne.</p>
+               <div type="subpart">
+                  <head>The Obſervations.</head>
+                  <p n="1">1. There are commonly partners in contriving cruel de<g ref="char:EOLhyphen"/>ſignes, brethren that will be ready to lay their heads together in plotting bloody villany, and evill actions ſhall not want aſ<g ref="char:EOLhyphen"/>ſociates,
+<pb n="5" facs="tcp:116753:5"/>companions in their executions: As <hi>bonum,</hi> ſo <hi>malum,</hi> is <hi>ſui diffuſivum,</hi> ſeldome is miſchiefe agitated to perfection without two heads; caſt in thy lot among us, wee will have but one purſe, wee will be brethren, Pro. 1.14. is the inſinua<g ref="char:EOLhyphen"/>ting policy of thoſe whoſe deſignes are violence, revenge, or blood: Witneſſe the two Elders in the ſtory of <hi>Suſanna,</hi> were it not Apocryphall, but in that which is Canonicall, <hi>Big<g ref="char:EOLhyphen"/>than</hi> and <hi>Tereſh</hi> in the booke of <hi>Heſter,</hi> 2.21. <hi>Jozachar,</hi> and <hi>Jehozabad,</hi> in the 2 of Kings 12.21. and <hi>Simeon,</hi> and <hi>Levi,</hi> in the Text.</p>
+               </div>
+               <div type="subpart">
+                  <head>The Application.</head>
+                  <p>And want there witneſſes to this truth in our dayes? No <hi>Fairfax</hi> and <hi>treton</hi> were the joynt contrivers, and deſigners of the late cruel execution of his Majeſties and Kingdomes two loyall Subjects at Colcheſter; though their death were aſſented to by <hi>their</hi> Counſell of War, and acted by their Souldiers.</p>
+                  <p n="2">2. <hi>Brethren in iniquity,</hi> they are recorded to be, brethren they were, ſo far the compellation might ſtand with their re<g ref="char:EOLhyphen"/>putation and be for their credit, as being a badge of honour; but <hi>in iniquity</hi> being added, it tends to their ſhame and diſgrace, and proves the brand of their infamy, charactizing their cruel<g ref="char:EOLhyphen"/>ty and villany: Foule actions deſerve for their authors foule denominations, and the contrivers of odious deſignes, are wor<g ref="char:EOLhyphen"/>thy to be ſtigmatized with odious names.</p>
+                  <p>If <hi>Jeroboam</hi> (to compaſſe his ambitious ends) make all Iſra<g ref="char:EOLhyphen"/>el turne Rebell; God thinkes fit to ſet this marke of diſgrace upon his name. <hi>Jeroboam the ſonne of Nebat, who made Iſrael to ſinne,</hi> 1 Kings 16.26. and if <hi>Simeon</hi> and <hi>Levi</hi> (to execute their revengefull ends) will be like in complotting a deſigne of cruelty, they ſhall be conjoyned in a character demonſtrating their villany: brethren in a plot of inhumanity <hi>Jacob</hi> ſtig<g ref="char:EOLhyphen"/>matizes with the compellation of, <hi>brethren in iniquity:</hi> And this is done that ſo the generations to come, reading the odiouſ<g ref="char:EOLhyphen"/>neſſe of ſuch crimes in the diſgracefulneſſe of the authors com<g ref="char:EOLhyphen"/>pellations or (nicknames) may be afraid of the brand, and if they would not receive it, be ſo afraid of the ſinne as not to commit it.</p>
+               </div>
+               <div type="subpart">
+                  <pb n="6" facs="tcp:116753:6"/>
+                  <head>The Application.</head>
+                  <p>And now you that are <hi>Simeon</hi> and <hi>Levies</hi> parallels, are yee moved and ſtartled at this ſtigmatizing compellation? you ſhould then have been moved by their example and ſhame, and ſtartled at the contriving and deſigning ſo parallell an executi<g ref="char:EOLhyphen"/>on; ſince you have not been afraid to imitate <hi>Simeon</hi> and <hi>Le<g ref="char:EOLhyphen"/>vi,</hi> in the tranſgreſſion, I will not be afraid to imitate <hi>Jacob</hi> by this Tranſition, <hi>Fairfax</hi> and <hi>Ireton,</hi> bretheren in iniquity; yea and to charge you with the impeachment charged upon them in the affirmative poſition, and the third particular.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The expoſition of the third particular.</head>
+               <p>The affirmative poſition, charge or impeachment; <hi>the in<g ref="char:EOLhyphen"/>ſtruments of cruelty are in their habitations;</hi> that is all the in<g ref="char:EOLhyphen"/>fernall affections of their mindes, all the externall Members of their bodies, and all the weaons of war that they were furni<g ref="char:EOLhyphen"/>ſhed with, were wholely converted to the acting cruelty, all were imployed by them to this end to execute this bloody de<g ref="char:EOLhyphen"/>ſigne.</p>
+               <p>What cruelty, and weapons! inſtruments of cruelty in the habitations of the choſen ſeed! Yes, for it is heere poſitively affirmed, that the inſtruments of cruelty were in the habitati<g ref="char:EOLhyphen"/>ons of the ſonnes of <hi>Jacob,</hi> the faithfull ſonne of God and godly grand-child of the Father of the faithfull, <hi>Abraham.</hi>
+               </p>
+               <div type="subpart">
+                  <head>The Obſervations.</head>
+                  <p n="1">1. The true ſeed of the promiſe, the choſen ſeed declared ſo by God himſelfe, may harbour intentions of, and proceed to be actors in cruel deſignes; witneſſe the occaſion of theſe words of <hi>Jacob</hi> on his death bed, <hi>viz.</hi> the deliberated and conſulted murther of <hi>Hamor</hi> and <hi>Shechem,</hi> though concealed by deceit<g ref="char:EOLhyphen"/>full communications, parlies, or treaties, till by their ſubmiſſi<g ref="char:EOLhyphen"/>on to <hi>Siweon</hi> and <hi>Levies</hi> deſires, they had given them advan<g ref="char:EOLhyphen"/>tage
+<pb n="7" facs="tcp:116753:6"/>and opportunity to effect the ſame, which they made uſe of, and in cold blood, the third day after they had them at their mercy with their ſwords, they fell upon them and ſlew them, who had made themſelves unable to reſiſt or defend them<g ref="char:EOLhyphen"/>ſelves by yielding to that propoſition, which they did beleeve had been made to no other end then to effect a reconciliation in peace, love, and union: For this crafty dealing with <hi>Hamor</hi> and <hi>Shechem,</hi> till they had got them to ſubmit in a manner to their mercy, and then in cold blood murthering of them, doth <hi>Jacob</hi> charge them heere with this impeachment, poſitively affirming that the inſtruments of cruelty were in their habita<g ref="char:EOLhyphen"/>tions, and that was the occaſion of this his ſpeech upon his death bed, and is a proofe of the truth of this obſervation that, men, who are declared to be of the choſen ſeed, and that by the teſtimony of God himſelfe, may harbour intentions of, and proceed to be actors in cruel deſignes, and may imploy all the faculties of their ſoules and members of their bodies to effect the ſame.</p>
+               </div>
+               <div type="subpart">
+                  <head>The Application.</head>
+                  <p>And have wee not them in our dayes who beare witneſſe to this truth alſo, and who may be truely charged with this im<g ref="char:EOLhyphen"/>peachment? Yes, for that <hi>their</hi> hearts (who ſeeme to others, and report themſelves to be the elect and choſen of God, Saints, and holy ones) that <hi>their</hi> hearts (I ſay) may contrive miſchiefe, and with Davids cruel man, Pſal. 140.2. imagine evill things, and harbour war continually; but yet with <hi>their</hi> tongues talke deceitfully.</p>
+                  <p>That the words of <hi>their</hi> mouthes may be ſofter then butter, and more gentle then oyle, and yet their thoughts at that time be very ſwords forged for the war, which is in their hearts.</p>
+                  <p>When by craft they have got an advantage, that <hi>their</hi> feet my make haſte to execute premeditated revenge, and be ſwift in running to doe miſchiefe.</p>
+                  <p>That <hi>their</hi> hands may be ever ready to ſhed blood, and <hi>their</hi> right hand the right hand of falſhood, whilſt it takes by the beard to kiſſe, ſmiting its ſword into the fift rib to kill, 2 Sam.
+<pb n="8" facs="tcp:116753:7"/>20.9.10. In a word: That all the affections of <hi>their</hi> ſoules, (though religiouſly ſeeming, but deceitfull, be the words of their mouthes) members of <hi>their</hi> bodies, and ſwords by <hi>their</hi> ſides (who in our dayes are termed the choſen of God, Saints and holy ones) may prove inſtruments of cruelty, is a truth ful<g ref="char:EOLhyphen"/>ly juſtified by the late act of <hi>Fairfax</hi> and <hi>Ireton,</hi> parallell to this of <hi>Simeon</hi> and <hi>Levi</hi> heere, the putting to the ſword theſe two valiant Commanders. Sir <hi>Charles Lucas</hi> and Sir <hi>George Lyſle</hi> in cold blood, the third day after they had yeelded them<g ref="char:EOLhyphen"/>ſelves to their mercy, and within two houres after notice given to them of death; and therefore wee may ſay of them that the inſtruments of cruelty are in their habitation. Thats the firſt obſervation.</p>
+                  <p>But before I touch upon the ſecond, it is requiſite that we re<g ref="char:EOLhyphen"/>vive, and conſider the whole ſtory.</p>
+                  <p>
+                     <hi>Shechem</hi> the ſonne of <hi>Hamor</hi> an uncircumciſed Canaanite had wrought Villany in Iſrael. Gen. 34 7. committed that which was to the reproach of <hi>Jacob</hi> and his ſonnes, v. 14. both theſe by <hi>Jacob</hi> were paſt by with ſilence, and their redreſſe com<g ref="char:EOLhyphen"/>mitted to the Lord, and by <hi>Sechem</hi> endeavoured to be ſatis<g ref="char:EOLhyphen"/>fied and repaired: to this end <hi>Shechem</hi> deſires a Perſonall Trea<g ref="char:EOLhyphen"/>ty (the ſole meanes with Gods bleſſing to effect a reconciliati<g ref="char:EOLhyphen"/>on, if without hypocriſie) <hi>Jacob</hi> conſents really, intending a reconciliation with <hi>Shechem,</hi> who intreated it with humble ſub<g ref="char:EOLhyphen"/>miſſion; and with <hi>Hamor</hi> who had propounded it, with pro<g ref="char:EOLhyphen"/>miſe of a conſiderable ſatisfaction: with his ſincerity, and integrity had the matter been ended peaceably, betweene <hi>them</hi> who had no other ends but love, peace, union, and amity.</p>
+                  <p>But the ſonns of <hi>Jacob,</hi> pretending to embrace the motion, intend to compaſſe their premeditated revenge, and in Order thereunto begin their cruelty with craft, and ſhroud their craft under the cloak of Religion: If you will ſubmit to our diſci<g ref="char:EOLhyphen"/>pline, ſerve the God whom we ſerve, and receive on your Bo<g ref="char:EOLhyphen"/>dies the badge or enſigne of our Covenant, according to the Ordinance of God, circumciſion, then may we yeeld to your deſires, otherwais know we cannot do this thing; <hi>wee cannot give our ſiſter to an uncircumciſed man</hi> Gen. 34.14. a covenant
+<pb n="9" facs="tcp:116753:7"/>intended not for the ſalvation of the ſoule, but the deſtruction of the body.</p>
+                  <p>The Fatherly affection to the ſonne, and the intended con<g ref="char:EOLhyphen"/>jugall affection to the deſired Wife, cauſe both <hi>Hamor</hi> and <hi>She<g ref="char:EOLhyphen"/>chem</hi> (waving the painfullneſſe of the execution) to embrace that condition themſelves, and to perſwade their people there<g ref="char:EOLhyphen"/>unto; alſo they diſſemble with them, as they themſelves had been diſſembled with by <hi>Jacobs</hi> ſonnes; common profit is pre<g ref="char:EOLhyphen"/>tended in order thereunto; (<hi>ſhall not their flocks and ſubſtance be ours?</hi> Gen. 34.23.) though <hi>Shechems</hi> love was therein on<g ref="char:EOLhyphen"/>ly meant (the hope of profit is the moſt powerfull motive to the common People, and the mention of commodity makes the vulger ſort proud to be prodigall of their skin and blood) there<g ref="char:EOLhyphen"/>fore they alſo are content to ſmart; and ſo all put the knife to their owne fore-skins: and now <hi>Simeon</hi> and <hi>Levi</hi> taking ad<g ref="char:EOLhyphen"/>vantage of this ſubmiſſion to their mercy, and inability to make reſiſtance by reaſon the ſorenes of the Shechemites own-given wounds, <hi>on the third day tooke either of them his ſword and went into the City boldly, and ſlew every male, v.</hi> 25. This deſigne ta<g ref="char:EOLhyphen"/>ken in hand upon ſo juſt a cauſe but carryed on with ſuch craft, diſſimulation, and hypocriſie, and in cold blood ſo barbarouſly executed, is by <hi>Jacob</hi> ſharpely reprehended in them, Gen. 34.30 and heere made a charge, impeachment, or affirmative po<g ref="char:EOLhyphen"/>ſition of their cruelty, the inſtruments of cruelty are in their habitations: This premiſed, the ſecond Doctrinall concluſion will be this.</p>
+                  <p n="2">2 <hi>Doct.</hi> Though the uncircumciſed Infidels, worke villany in Iſrael, Gen. 34.7. and commit an act to the ſhame and re<g ref="char:EOLhyphen"/>proach of the faithfull promiſed ſeed, Chriſtians, Gen. 34.14. and afterwards with humble ſubmiſſion ſue for an honourable reconciliation, in hopes by a Perſonall Treaty, to conclude all in love peace, union, and amity, and thereupon yeeld them<g ref="char:EOLhyphen"/>ſelves up to their mercy; yet if Iſrael, Chriſtians, Saints take advantage of ſuch ſubmiſſion, and in cold blood murther thoſe uncircumciſed Infidels, this charge may be juſtly put in, and this impeachment drawne up againſt them, <hi>cruelty are in their habitations,</hi> this is <hi>Iacobs</hi> charge againſt <hi>Simeon</hi> and <hi>Levi;</hi> yea
+<pb n="10" facs="tcp:116753:8"/>although (which is more) the deſigne of the Shechemites were to poſſeſſe themſelves of the flocks, ſubſtance, and all the cattle of <hi>Iacob,</hi> and all his ſonnes, Gen. 34.23.</p>
+               </div>
+               <div type="subpart">
+                  <head>The Application.</head>
+                  <p>This charge hen I muſt draw up, and this impeachment put in againſt <hi>fairfax</hi> and <hi>Ireton,</hi> thoſe principall actors in that ry<g ref="char:EOLhyphen"/>ot, which in cold blood was committed on the lives of thoſe two worthy Chriſtian Cavaliers, Sir <hi>Charles Lucas,</hi> and Sir <hi>George Liſle,</hi> by their according to their owne report) elected ſelves, and holy Worthies, that Army of Saints, as the deluded, ſeduced, blinded, or beſotted people of this Land terme them: For if that bloody fact committed by <hi>Simeon</hi> and <hi>Levi,</hi> upon <hi>Hamor</hi> and <hi>Shechem,</hi> Infidels; For which yet they might pre<g ref="char:EOLhyphen"/>tend ſome cauſe, and had a faire colour, were by <hi>Jacob</hi> juſtly condemned, and this charge put in againſt them, <hi>that cruelty was in their habitations:</hi> Certainely I may be bold to put in the ſame impeachment againſt <hi>Fairfax</hi> and <hi>Ireton,</hi> and declame againſt, that their bloody act as the quinteſcence of cruelty, and putting to the ſword, after a ſubmiſſion to mercy, thoſe two noble Chriſtians, who had not injured them at all, much leſſe in ſo high a nature; who tooke up armes only to recover their owne ſubſtance, and not to poſſeſſe themſelves of theirs, and were gathered together in a body, to no other end then by a Perſonall Treaty to compoſe all differences, ſatisfie all publick intereſts, and effect an happy reconciliation between the King and his Subjects, and between the ſubjects themſelves, that ſo the King might live in glory and command, the ſubjects in plenty and obedience, and all in peace, righteouſneſſe, and fit<g ref="char:EOLhyphen"/>ting liberty (which <hi>Fairfax, Ireton,</hi> and the reſt of their ad<g ref="char:EOLhyphen"/>herents pretended in all their Remonſtrances and Declarations; in which it is apparently they talk't but deceitfully)</p>
+                  <p>And ſhall men of theſe principles, taking up armes to theſe good and religious ends, after they are over powred, and have yeelded to the mercy of the Victors, in cold blood be ſhot to death? and yet ſhall they that have been chiefe plotters and actors, with their adherents and abettors be looked upon and acknowledged the elect children, the choſen people? No, let
+<pb n="11" facs="tcp:116753:8"/>them be pointed at by their knowne appellations or proper names, <hi>Fairfax</hi> and <hi>Ireton,</hi> as being prodigies of nature, ſtig<g ref="char:EOLhyphen"/>matized with their deſerved character or proper appelation, <hi>brethren in iniquity,</hi> as the ſhame branded ſhame of their Nati<g ref="char:EOLhyphen"/>on, and charged with that impeachment (unto which them<g ref="char:EOLhyphen"/>ſelves cannot but plead guilty, and none that impartially com<g ref="char:EOLhyphen"/>pares the circumſtances will acquit of as innocent) this affir<g ref="char:EOLhyphen"/>mative poſition, <hi>the inſtruments of cruelty are in their tents or habitations, Pſal.</hi> 14. as the ſcorne of truely valiant ſouldiers: And therefore heere I conjure all that would not be thought to have a favour to, or an hand in ſo foule an act, with their ſoules to abjure their ſecrets or counſells, and with their bodies to a<g ref="char:EOLhyphen"/>void their companies, Aſſemblies, Committees, or Counſels of war, as good old <hi>Jacob</hi> doth teach them by his example heere; and ſo I come to the fourth particular.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The fourth particular expounded.</head>
+               <p>The ingeminated conjuration,
+<list>
+                     <item>Of his ſoule to objure their ſecrets, &amp;c.</item>
+                     <item>Of his honour to abjure their Aſſemblies &amp;c.</item>
+                  </list>
+               </p>
+               <p n="1">1. Oh my ſoule come not thou into their ſecret, that is oh my ſoule, minde, will and affections, I conjure you not to give the leaſt connivance to the impious reſults of ſuch conſultati<g ref="char:EOLhyphen"/>ons, nay not to be ſo much as preſent, when ſuch wicked de<g ref="char:EOLhyphen"/>ſignes are diſcuſſing.</p>
+               <div type="subpart">
+                  <head>Obſervations.</head>
+                  <p>A good man ſhould conjure his ſpirit and inward man not to partake with bloody men in their ſecretly contrived machi<g ref="char:EOLhyphen"/>nations and counſells; but to adjue and utterly renounce all voted either Ordinances of cloſe Committees, or Orders of a Counſell of War, that tend to the execution of any cruel deſign.</p>
+                  <p n="2">2. Unto their Aſſembly, O mine honour be not thou united; that is, O my glory, honour or reputation, if thou deſiret to be preſerved, I conjure thee to abjure, renounce, utterly diſclaime the companies of ſuch bloody projectors, to avoid the ſocieties of ſuch inhumane voters, and then to have no union with the congregations or aſſemblies of ſuch implacable and mercileſſe Councellors: If they account it their glory and honour to be an Aſſembly that can doe what they will without controule; much good may it doe them, but far be ſuch honour from me.</p>
+                  <pb n="12" facs="tcp:116753:9"/>
+                  <p>A good man as he will conjure his inward man not to con<g ref="char:EOLhyphen"/>ſent to ſuch bloody machinations, nor affect ſuch cruel counſels; ſo will he alſo conjure his outward man not ſo much as to joyn it ſelfe with ſuch companions, nor be an inſtrument with their aſſemblies to effect ſuch cruel actions; as he will not joyn with them in the conſultation or contriving of them, ſo neither in the execution or effecting them, as the faculties of his ſoule ſhall not be counſellours, ſo neither ſhall the members of his body be actors of ſuch foule proceedings, as <hi>Jacob</hi> did conjure both here, O my ſoule, &amp;c. unto their Aſſembly, not to joyne with them either in thought, word, or deed, either in inward affection or outward action, of which conjuration in himſelfe, and as an argument to provoke others thereunto: in the next whods he declares the ground, cauſe or reaſon thereof, thereby to move in others a deteſtation or hatred of two actions; the effects of a twofold paſſion, and the fifth partionlar.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The expoſition of the firſt particular.</head>
+               <p>The double actions of a two fold affection,
+<list>
+                     <item>Of their anger,</item>
+                     <item>Of their ſelfe-wilfull revenge.</item>
+                  </list>
+               </p>
+               <p>Of their anger; <hi>For in their anger they ſlew a man,</hi> that is, being incenſt for the injury done unto their ſiſter, and the re<g ref="char:EOLhyphen"/>proach which thereby did accrue unto themſelves; in cold blood after ſubmiſſion to mercy they ſlew a man, <hi>Hamor</hi> and <hi>Shechem</hi> the chiefe Commanders put for the reſt of their ſubjects or ſol<g ref="char:EOLhyphen"/>diers.</p>
+               <div type="subpart">
+                  <head>Obſervation.</head>
+                  <p>Some natures are not ſatisfied but with the life blood of their injuers, nor will ſome mens anger be reconciled, but hunt im<g ref="char:EOLhyphen"/>placably for the life of its object.</p>
+                  <p n="2">2. Of their ſelfe-wilfull revenge <hi>and in their ſelfe-will they digged down a wall,</hi> that is wilfully bent upon revenge they pro<g ref="char:EOLhyphen"/>ſecuted it with ſuch violence, that nothing was of force to hin<g ref="char:EOLhyphen"/>der the executing thereof; a wall ſhall not reſiſt the fury of malice, but downe goes that too before they will be prevented: that is ſaith one, in the night they brake downe the wall of <hi>She<g ref="char:EOLhyphen"/>chem,</hi> which ſtood betwixt them and the object of their re<g ref="char:EOLhyphen"/>venge, and entring at the breach did act that bloody tragedy; But I ſhall thus expound it, by craft and policy having undermi<g ref="char:EOLhyphen"/>ned, circumvented, <hi>Hamor</hi> and <hi>Shechem</hi> the two ſtouteſt Com<g ref="char:EOLhyphen"/>manders,
+<pb n="13" facs="tcp:116753:9"/>who by their valour were as a wall unto their City, and whoſe undaunted courage, they durſt not ſingly, and upon equall tearmes meet or incounter, but now over powred by this crafty advantage, they dig them downe, that is as it is the na<g ref="char:EOLhyphen"/>ture of all cowards, they ſlay them and inſult upon them in their fall.</p>
+               </div>
+               <div type="subpart">
+                  <head>The Application.</head>
+                  <p>And now how neere a reſemblance there was betweene the manner of <hi>Simeon</hi> and <hi>Levies</hi> taking away the lives of <hi>Hamor</hi> and <hi>Shechem,</hi> and of <hi>Fairfax</hi> and <hi>Iretons</hi> deſtroying thoſe two valiant Commanders in <hi>Colch-ſter;</hi> and what a vaſt diſpropor<g ref="char:EOLhyphen"/>tion there was betwixt the cauſes that provoked both of them to ſo cowardly, bloody an act, I ſhall leave it to any endued with common ſenſe and reaſon to judge; and I doubt not but it will be a powerfull argument to provoke all who will not be thought to have a favour to, or hand in ſo baſe and unworthy an action to adjure the counſells or ſecrets, renounce the compa<g ref="char:EOLhyphen"/>nies or aſſemblies, and depart from the tents of ſuch wicked worthleſſe men, from their ſoules deteſting ſuch cowardly cru<g ref="char:EOLhyphen"/>elty, and ſuch inhumane butchery, which was ſo abominable in the ſence and apprehenſion of the good old Patriarch <hi>Jacob</hi> (though in his ſons) that the conſideration thereof cauſed him to convert his laſt words to them, which ſhould have been a benediction into a malediction; <hi>curſed be their wrath for it was fierce, and their rage for it was cruel:</hi> and to period his ſpeech of them with a prophetick divination, and fatall prediction againſt them, <hi>I will divide them in</hi> Jacob, <hi>and ſcatter them in</hi> Iſrael, which containes the two laſt particulars,</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The expoſition of the <hi>2</hi> laſt particulars.</head>
+               <p n="6">6. Curſed the their
+<list>
+                     <item>Wrath,</item>
+                     <item>Rage,</item>
+                  </list> For it was
+<list>
+                     <item>Feirce,</item>
+                     <item>Cruel.</item>
+                  </list>
+               </p>
+               <p>Curſed, that is, ill ſucceſſe may it have, may ſuch a thing ne<g ref="char:EOLhyphen"/>ver proſper, or be bleſt by God or man; But may men for the future tremble at it as an Anathema, and ſhun it as a Maranatha, a thing deſerving the malediction of men, and bitter curſe of God.</p>
+               <p>Their wrath, their progreſſe in paſſion, the cherriſhing that humour, and harbouring that ill affection.</p>
+               <p>Their rage, wrath, hightned to a perfection, or the higheſt de<g ref="char:EOLhyphen"/>gree
+<pb n="14" facs="tcp:116753:10"/>of paſſion; for there are three degrees of paſſion.</p>
+               <p>The firſt is anger a ſudden, but ſhort collition of the humors.</p>
+               <p>The ſecond is wrath, a continuance of the diſturbance, and a countenancing of the paſſion.</p>
+               <p>The laſt is rage, the diſcompoſure degreed unto perfection by ſavouring and feeding the paſſion, the effects whereof are exe<g ref="char:EOLhyphen"/>cuted with implacable cruelty.</p>
+               <p>Be angry but ſinne not, paſſionmay forcibly break in upon us, but we muſt not cheriſh it till it prove wrath, muchleſſe hu<g ref="char:EOLhyphen"/>mor it to perfection till it becomes rage, breaking out into cru<g ref="char:EOLhyphen"/>ell effects, that is to ſinne, and that ſinne is here curſt: <hi>Curſed be their wrath their rage;</hi> curſed be their ſinfull actions, not per<g ref="char:EOLhyphen"/>ſons, the perſon bears the ſtampe, or image of God, therefore hopes of reconciliation upon reformation; but ſin defaceth that ſtamp, deformeth that image, therefore curſed to prevent the committing thereof by imitation.</p>
+               <p>
+                  <hi>Curſed be their wrath for it was fierce,</hi> violent in the encreaſe, rage for it was cruell, implacable at the full growth: <hi>Paſſio igi<g ref="char:EOLhyphen"/>tur dignaſane maledictione;</hi> theſe qualities render them worthy of a curſe, and were the cauſe of <hi>Jacobs</hi> curſing, as himſelfe here teſtifies.</p>
+               <p>Good men are ſuch lover of equity, that although they know they may juſtly pronounce a malediction againſt the ſin, yet they hold it convenient to produce the cauſe, ſo good a man was <hi>Jacob,</hi> from whoſe rule not to digreſſe.</p>
+               <div type="subpart">
+                  <head>The Application.</head>
+                  <p>Let us conſult thoſe very men themſelves, who were the Ac<g ref="char:EOLhyphen"/>tors in that Tragedy at Colcheſter: Say, ye the two heads of our new and new qualified Iſrael, ye holy Leaders of that Army of Saints! may we not ſay curſed be your wrath for it was fierce? did not your anger ſwell to that height in the proſecution of the ends at which it aymed, that it would upon no tearmes ad<g ref="char:EOLhyphen"/>mit of ſo much as a Treaty, much leſſe hearken to the honeſt meanes of reconciliation with them till they had ſubmitted to your mercy? and was it not then fierce? and after they had ſubmitted to your mercy, can you deny that your rage would not be ſatisfied with any thing but their lives? and was it not then cruel? wrath thus fierce in the encreaſe, rage thus cruel in
+<pb n="15" facs="tcp:116753:10"/>the full growth as certainly worthy of a curſe; Curſed then be your wrath for it was fierce, and your rage for it was cruel.</p>
+                  <p>And may the 7. particular <hi>Jacobs</hi> fatall predictions be fulfilled in you and your aſſiſſinates for concluſion: may you be divided among your ſelves, may you be diſperſt amongſt others, for the Lord may be ſaid to pronounce this ſentence, aſwell againſt you that have more then juſtified <hi>Simeon</hi> and <hi>Levi</hi> by imitations, as againſt them that ſet you downe their owne example for your inſtruction: <hi>I will divide them in Jacob and ſcatter them in Iſrael;</hi> it is juſt with God to divide them, thereby to make way for a mercy upon a Kingdome, who ſo eaſily were united in their forces and affections to bring miſeryupon a Kingdome; and it is policy to diſperſe them, who in a body have contrived and acted ſo many cruell deſignes, to the ruine and deſtruction of ſo many families, leſt they ſhould againe be gathered to an head, <hi>tali ſuo conſilio aliis perniciem machinentur,</hi> by ſuch Coun<g ref="char:EOLhyphen"/>ſels hatch and exerciſe the like cruelties on others, to this, that they have executed on the forenamed valiant Champions; to whoſe immortall honour, but the ſhame of the cruel contrivers and actors of their death, I record this tranſition for the conclu<g ref="char:EOLhyphen"/>ſion.</p>
+                  <p>
+                     <hi>Fairfax</hi> and <hi>Ireton; Brethren in iniquitie,</hi> the inſtruments of cruelty are in their habitations, quarters, Tents, or Armies; or their ſwords are inſtruments of violence: <hi>Oh my ſoule! come not thou into their ſecret, unto their Aſſembly, Oh mine honour! be not thou united;</hi> for in their wrath upon premeditation they ſlew Sir <hi>Charle Lucas,</hi> and Sir <hi>George Liſle,</hi> and in their ſelf-will they craftily undermined, and after ſubmiſſion to mercy, in cold bloud cruelly murdered thoſe two valiant Commanders, who had by their incomparable valour and undaunted courage, like a wall defended <hi>Colcheſter: Curſed be their wrath for it was fierce, and their rage for it was cruel.</hi>
+                  </p>
+                  <p>And what <hi>Jacob</hi> did foretell of them by way of propheſie; I will beg by way of prayer for theſe; divide them Lord a<g ref="char:EOLhyphen"/>mong themſelves heere in England, and ſcatter or disband them among the Inhabitants of all his Majeſties Dominionsk, that ſuch a mercileſſe pack of ſo cruel blood thirſty Tyrants may never gather to an head againe to deſtroy the people and diſ<g ref="char:EOLhyphen"/>turbe
+<pb n="16" facs="tcp:116753:11"/>the peace of this thy Iſrael. <hi>Amen.</hi>
+                  </p>
+                  <p>And whereſoever they ſhall like <hi>Cain,</hi> their brother, and firſt murtherer, wander, let this ſtill be preſented to their thoughts, for a ſcourge unto their ſoules.</p>
+                  <q>
+                     <lg>
+                        <head>Satia te ſanguine Cyre.</head>
+                        <l>They that delight mans precious blood to ſpill,</l>
+                        <l>Their ſtomacks ſhall of their owne blood have fill.</l>
+                     </lg>
+                  </q>
+               </div>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>Thus I leave them to the vengeance of him who makes inquiſiti<g ref="char:EOLhyphen"/>on for blood; and</hi> this <hi>in memory of our two murdred Worthies.</hi>
+               </p>
+               <div type="poem">
+                  <head>Epitaphium.</head>
+                  <l>STAy! ſtay! oh mortall! contemplate the Duſt,</l>
+                  <l>Which <hi>Hence,</hi> expects to riſe among the juſt</l>
+                  <l>And Loyall ſoules; <hi>Lucas</hi> is this, this <hi>Lyſle,</hi>
+                  </l>
+                  <l>The Living Glory, dead, ſhame of this <hi>Iſle:</hi>
+                  </l>
+                  <l>But would'ſt Athenian like deſire to know</l>
+                  <l>What bloody hand did ſigne the cruel blow?</l>
+                  <l>
+                     <hi>Fairfax</hi> and <hi>Ireton</hi> (prejudging Loyalty,)</l>
+                  <l>Doom'd e'm to dye by new found piety;</l>
+                  <l>Such falſe <hi>Simeon</hi> and <hi>Levi</hi> ſhew'd,</l>
+                  <l>When both their hands, in rage, in blood imbrew'd</l>
+                  <l>Father and ſonne, with Loyall Subjects, all</l>
+                  <l>They murdred to make up one Funerall.</l>
+                  <l>If <hi>F.</hi> with <hi>S.</hi> and <hi>I.</hi> be compar'd with <hi>L,</hi>
+                  </l>
+                  <l>Judge whethers crime comes neereſt unto Hell.</l>
+               </div>
+               <div type="poem">
+                  <head>Proſopopeia.</head>
+                  <l>Sleepe honor'd <hi>Paire</hi> in peace, your wars are done:</l>
+                  <l>
+                     <hi>Revenge! Awake!</hi> ſtrike <hi>Tom</hi> and <hi>Ireton.</hi>
+                  </l>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
